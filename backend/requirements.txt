@@ -1,0 +1,9 @@
+fastapi==0.100.1
+uvicorn==0.23.2
+pydantic==2.3.0
+langchain-openai==0.0.5
+akshare>=1.17.0
+pandas==2.0.3
+numpy==1.25.2
+efinance==0.5.63
+yfinance==0.2.37
