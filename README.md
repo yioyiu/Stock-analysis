@@ -215,4 +215,18 @@ smart-stock-screening/
 2. 新增分析指标：在AI分析服务中添加新的分析维度
 3. 优化UI设计：修改CSS样式或组件布局
 
+## 许可证
+
+MIT License
+
+## 贡献
+
+欢迎提交Issue和Pull Request！
+
+## 联系方式
+
+如有问题或建议，请通过以下方式联系：
+- 项目地址：https://github.com/yioyiu/Stock-analysis
+
+
 
