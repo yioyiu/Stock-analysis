@@ -2,7 +2,7 @@ import axios from 'axios'
 
 // 创建axios实例
 const apiClient = axios.create({
-  baseURL: 'http://localhost:8000/api/v1', // 直接使用后端地址，绕过代理
+  baseURL: import.meta.env.VITE_API_BASE_URL || window.location.origin + '/api/v1',
   timeout: 60000, // 增加超时时间
   headers: {
     'Content-Type': 'application/json'
